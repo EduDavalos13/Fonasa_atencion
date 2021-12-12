@@ -1,0 +1,76 @@
+.cuerpo {
+    background-image: url("../img//v870-tang-30.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: white;
+    
+}
+
+.barra{
+    color: #fff;
+}
+
+.boton {
+    padding: 10px;
+}
+
+.box {
+    display: none;
+    margin-top: 20px;
+}
+
+.Anciano {
+    background-color: #fff;
+}
+
+.Nino {
+    background-color: #fff;
+}
+
+.Joven {
+    background-color: #fff;
+}
+
+.mt {
+    margin-top: 20px;
+}
+
+.tarjeta{
+    background-color: rgba(255, 255, 255, 0.75);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.tabla{
+    background-color: white;
+}
+
+
+.scroll{
+    position: relative;
+    height: 300px;
+    overflow: auto;
+    display: block;
+}
+
+.cabecera{
+    position: sticky;
+    top: -2px;
+}
+
+.right{
+    position: absolute;
+    right: 5px;
+}
+
+.blanco{
+    color: white;
+    font-weight: bold;
+}
+
+.imagen {
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
